@@ -34,5 +34,5 @@ I actively develop software projects in different programming languages to stren
 ---
 
 ## Contact
-- 🔗 LinkedIn: https://www.linkedin.com/in/dilannurkaya
+- 🔗 LinkedIn: https:www.linkedin.com/in/dilan-nur-kaya
 - 📧 Email: kayadilannur@gmail.com
